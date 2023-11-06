@@ -4,3 +4,7 @@
 # Week 10 Windows Forms Card Dealer
 
 https://nano5.notion.site/Week10-Card-Dealer-Windows-Forms-cdbb9d63d60c48f1ad06dce734271ff5?pvs=4
+
+
+# 카드 이미지 출처
+https://code.google.com/archive/p/vector-playing-cards/downloads
